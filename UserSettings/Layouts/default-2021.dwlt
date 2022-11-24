@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 16
+  controlID: 20
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 363
     height: 611
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 17
+  controlID: 21
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 18
+  controlID: 22
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Escenas
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Escenas
+  - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: D:\Clase\Unity\Granja
+  m_LastProjectPath: D:\ALVARO\Unity\Granja
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 70720000
-    m_LastClickedID: 29296
-    m_ExpandedIDs: 000000005472000056720000587200005a7200005c7200006e72000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: ba820000
+    m_LastClickedID: 33466
+    m_ExpandedIDs: 000000009e820000a0820000a2820000a4820000a6820000f67f060072890600528d0600268e060092c40800a6c80800a49e0a00da9e0a00dc9e0a0066a60a0078a60a0000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005472000056720000587200005a7200005c720000
+    m_ExpandedIDs: 000000009e820000a0820000a2820000a4820000a6820000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,9 +488,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 66760000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 7269feff347dfeff427dfeff82d5feff90d5feff64d7feff56d8feffaad9feff1ae5feff86e8fefffe66ffff5077ffff4ac9ffff32fbffff2c5c0000205d0000a45e0000e45e000064630000466800005a6a0000446c0000
+      m_ExpandedIDs: 3480faff5e8bfaffc08dfaffeecffafffaf9faff54ddfcffb6e2fcff0ee7fcff2208fdff3617fdff3248fdffa27bfdff5c81fdff80a4fdff20e7fdff1aeafdff281bfeff741cfeff4ec9ffff82e3ffff32fbffff045c0000545f0000d8610000a0620000806d00003471000044760000aa7a00007c7c0000d84d04002e4e04005c5104007c530400fe5704008a590400925d0400b85e0400f06d0400526e040060710400267a0400ea880400528f0400749b04009aab0900ac870a0048880a0086900a004c930a00
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -772,9 +772,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 59.833847, y: 5.967351, z: 7.877431}
+    m_Target: {x: -106.5714, y: -62.34076, z: -121.725624}
     speed: 2
-    m_Value: {x: 59.833847, y: 5.967351, z: 7.877431}
+    m_Value: {x: -106.5714, y: -62.34076, z: -121.725624}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -821,13 +821,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.02217892, y: 0.88284343, z: -0.041871652, w: -0.46737188}
+    m_Target: {x: -0.07336196, y: 0.8946619, z: -0.15943627, w: -0.41109747}
     speed: 2
-    m_Value: {x: -0.021476932, y: 0.88286376, z: -0.04054538, w: -0.46738267}
+    m_Value: {x: -0.07273736, y: 0.89480036, z: -0.15807638, w: -0.41116118}
   m_Size:
-    m_Target: 9.968505
+    m_Target: 100.60321
     speed: 2
-    m_Value: 9.968505
+    m_Value: 96.27101
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -845,7 +845,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.18983288, y: -0.7121742, z: 0.21051903, w: -0.6422792}
+  m_LastSceneViewRotation: {x: -0.13034931, y: -0.8655081, z: 0.2929628, w: -0.38496757}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -913,7 +913,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
